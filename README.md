@@ -83,9 +83,7 @@ flutter run
 
 ## 📸 Screenshots
 
-| Login Screen | Sign Up Screen | Home Screen |
-|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Sign Up](screenshots/signup.png) | ![Home](screenshots/Home.png) |
+| ![Login](screenshots/login.png) | ![Sign Up](screenshots/signup.png) 
 
 ## 👩‍💻 Author
 
