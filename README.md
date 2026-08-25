@@ -83,11 +83,17 @@ flutter run
 
 ## 📸 Screenshots
 
-> Screenshots will be added after app testing.
+### Splash Screen
+![Splash Screen](screenshots/localhost_50737_.png)
 
-| Splash Screen | Login Screen | Sign Up Screen | Home Screen |
-|:---:|:---:|:---:|:---:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* |
+### Login Screen
+![Login Screen](screenshots/localhost_50737_%20(1).png)
+
+### Sign Up Screen
+![Sign Up Screen](screenshots/localhost_50737_%20(2).png)
+
+### Home Screen
+![Home Screen](screenshots/localhost_52830_.png)
 
 ## 👩‍💻 Author
 
